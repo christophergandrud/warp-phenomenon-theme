@@ -1,0 +1,21 @@
+{
+  "name": "warp-phenomenon-theme",
+  "displayName": "warp-phenomenon-theme",
+  "description": "A colour theme based on Warp's Phenomenon theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WarpPhenomenon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WarpPhenomenon-color-theme.json"
+      }
+    ]
+  }
+}
