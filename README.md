@@ -1,7 +1,11 @@
 # warp-phenomenon-theme
 
-## Install the theme in VS Code
+The theme . . .
 
-To start using the theme with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
+<p align="left">
+  <img src="warp-phenomenon-logo.png" width="128" height="128" alt="Phenomenon Theme Logo">
+</p>
+
+## Inspiration
 
 This theme is inspired by Warp's Phenomenon theme.

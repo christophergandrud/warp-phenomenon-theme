@@ -3,12 +3,14 @@
   "displayName": "warp-phenomenon-theme",
   "description": "A colour theme based on Warp's Phenomenon theme",
   "version": "0.0.1",
+  "publisher": "Christopher Gandrud",
   "engines": {
     "vscode": "^1.99.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "warp-phenomenon-logo.png",
   "contributes": {
     "themes": [
       {
