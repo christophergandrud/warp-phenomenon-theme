@@ -4,6 +4,7 @@
   "description": "A colour theme based on Warp's Phenomenon theme",
   "version": "0.0.1",
   "publisher": "christophergandrud",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.99.0"
   },
